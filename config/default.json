@@ -1,0 +1,5 @@
+{
+  "jestTimeoutMS": 30000,
+  "baseURL": "https://webdriverjsdemo.github.io",
+  "headless": true
+}
