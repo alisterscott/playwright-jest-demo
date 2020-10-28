@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can GET a REST API and check response using approval style 1`] = `
+Array [
+  Object {
+    "id": 1,
+    "title": "Post 1",
+  },
+  Object {
+    "id": 2,
+    "title": "Post 2",
+  },
+  Object {
+    "id": 3,
+    "title": "Post 3",
+  },
+]
+`;
+
+exports[`can POST a REST API and check response using approval style 1`] = `
+Object {
+  "id": 4,
+  "title": "Post 4",
+}
+`;
